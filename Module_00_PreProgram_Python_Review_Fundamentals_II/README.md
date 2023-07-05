@@ -12,7 +12,7 @@ Packages and their methods can be renamed for your own readability purposes
 
 ## Challenging, interesting, or exciting aspects of today's assignment
 Python has its own debugger, so no need for IDE with a debugger!\
-"self" keyword in classes and how class methods work in general in python\
+It took a while to understand the "self" keyword in classes and how class methods work in general in python\
 When are assertions more useful than using prints or the debugger?
 
 ## Additional resources used 
