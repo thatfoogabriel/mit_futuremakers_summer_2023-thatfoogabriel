@@ -7,10 +7,13 @@
 * Package Handling
 
 ## Main takeaways from doing today's assignment
-<To be filled>
+You can use conditions and try/excepts for input validation and error handling\
+Packages and their methods can be renamed for your own readability purposes
 
 ## Challenging, interesting, or exciting aspects of today's assignment
-<To be filled>
+Python has its own debugger, so no need for IDE with a debugger!\
+"self" keyword in classes and how class methods work in general in python\
+When are assertions more useful than using prints or the debugger?
 
 ## Additional resources used 
-<To be filled>
+StackOverflow, W3Schools, ChatGPT
