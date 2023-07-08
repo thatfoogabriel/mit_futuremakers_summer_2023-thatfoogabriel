@@ -13,5 +13,7 @@
 <To be filled>
 
 ## Additional resources used 
-<To be filled>
-
+https://www.listendata.com/2019/07/how-to-filter-pandas-dataframe.html
+https://builtin.com/data-science/pandas-filter
+https://www.geeksforgeeks.org/python-pandas-dataframe-groupby/#
+https://sparkbyexamples.com/pandas/pandas-find-unique-values-from-columns/
