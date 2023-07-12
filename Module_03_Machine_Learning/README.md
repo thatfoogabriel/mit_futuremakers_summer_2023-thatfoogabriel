@@ -15,4 +15,9 @@
 <To be filled>
 
 ## Additional resources used 
-<To be filled>
+https://maps.joindeltaacademy.com/\
+https://scikit-learn.org/stable/modules/ensemble.html#forests-of-randomized-trees\
+https://scikit-learn.org/stable/modules/linear_model.html#lars-lasso\
+https://blog.quantinsti.com/gini-index/\
+https://www.learndatasci.com/glossary/gini-impurity/\
+https://towardsdatascience.com/decision-trees-explained-entropy-information-gain-gini-index-ccp-pruning-4d78070db36c\
