@@ -34,5 +34,4 @@ Difference between active and passive Neural Language Style Transfer?
 https://www.freecodecamp.org/news/sort-dictionary-by-value-in-python/ \
 https://stackoverflow.com/questions/613183/how-do-i-sort-a-dictionary-by-value \
 https://www.geeksforgeeks.org/python-program-check-string-palindrome-not/ \
-https://stackoverflow.com/questions/17331290/how-to-check-for-palindrome-using-python-logic \
-https://stackoverflow.com/questions/17015230/are-nested-try-except-blocks-in-python-a-good-programming-practice
+https://stackoverflow.com/questions/17331290/how-to-check-for-palindrome-using-python-logic
