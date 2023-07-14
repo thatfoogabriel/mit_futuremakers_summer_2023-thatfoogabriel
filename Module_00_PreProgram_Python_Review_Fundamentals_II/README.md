@@ -31,8 +31,8 @@
 - ***Assertions can tell you why error occurs better than cryptic exception messages. They also help others see what your code assumes or relies on. Doubles as a form of documentation***
 
 ## Additional resources used 
-https://stackoverflow.com/questions/17015230/are-nested-try-except-blocks-in-python-a-good-programming-practice \
-https://stackoverflow.com/questions/39282253/how-can-i-alias-a-default-import-in-javascript \
-https://www.geeksforgeeks.org/self-in-python-class/ \
-https://realpython.com/python-super/ \
-https://stackoverflow.com/questions/129120/when-should-i-use-debug-assert
+[Nested Try-Except Blocks](https://stackoverflow.com/questions/17015230/are-nested-try-except-blocks-in-python-a-good-programming-practice) \
+[Alias Imported Function](https://stackoverflow.com/questions/706595/can-you-define-aliases-for-imported-modules-in-python) \
+["Self" Keyword in Classes](https://www.geeksforgeeks.org/self-in-python-class/) \
+[How to use Superclass Functions](https://realpython.com/python-super/) \
+[When Assertions are Useful](https://stackoverflow.com/questions/129120/when-should-i-use-debug-assert)
