@@ -31,7 +31,7 @@ Assigning `lambda item: item[1]` to the optional parameter, `key`, tells the `so
 Difference between active and passive Neural Language Style Transfer?
 
 ## Additional resources used 
-https://www.freecodecamp.org/news/sort-dictionary-by-value-in-python/ \
-https://stackoverflow.com/questions/613183/how-do-i-sort-a-dictionary-by-value \
-https://www.geeksforgeeks.org/python-program-check-string-palindrome-not/ \
-https://stackoverflow.com/questions/17331290/how-to-check-for-palindrome-using-python-logic
+[Sort Dictionary by Value](https://www.freecodecamp.org/news/sort-dictionary-by-value-in-python/) \
+[Sort Dictionary by Value](https://stackoverflow.com/questions/613183/how-do-i-sort-a-dictionary-by-value) \
+[Check String for Palindrome](https://www.geeksforgeeks.org/python-program-check-string-palindrome-not/) \
+[Check String for Palindrome](https://stackoverflow.com/questions/17331290/how-to-check-for-palindrome-using-python-logic)
