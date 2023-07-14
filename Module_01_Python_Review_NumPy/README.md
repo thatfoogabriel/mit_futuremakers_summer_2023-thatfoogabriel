@@ -25,6 +25,6 @@
 - `array.transpose(1, 0, 2)` swaps the first two dimensions, swapping the corresponding markers in memory
 
 ## Additional resources used 
-https://numpy.org/doc/stable/index.html \
-https://www.geeksforgeeks.org/numpy-linear-algebra/ \
-https://stackoverflow.com/questions/32034237/how-does-numpys-transpose-method-permute-the-axes-of-an-array
+[NumPy Documentation](https://numpy.org/doc/stable/index.html) \
+[NumPy for Linear Algebra](https://www.geeksforgeeks.org/numpy-linear-algebra/) \
+[Axis Permutation with Transpose Function ](https://stackoverflow.com/questions/32034237/how-does-numpys-transpose-method-permute-the-axes-of-an-array)
