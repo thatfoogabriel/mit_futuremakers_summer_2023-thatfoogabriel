@@ -30,8 +30,8 @@
 &minus; Gini Impurity: Probability of misclassifying a given data point
 - Lower gini = lower chance of misclassification
 - Calculated as 1 minus the sum of all the squared probablities of each element
-- Decision Trees find paths with minimal changes in gini
-<div align=center><img src="https://i.stack.imgur.com/E7Fak.png" width=20% height=20%></div>
+- Decision Trees find paths with minimal changes in gini 
+$$\large gini=1-Σp_i^2$$
 <div align=center><img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Economics_Gini_coefficient2.svg" width=30% height=30%></div>
 
 ## Additional resources used 
