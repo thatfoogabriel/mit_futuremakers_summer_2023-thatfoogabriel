@@ -7,10 +7,11 @@
 * Operations on Tabular data
 
 ## Main takeaways from doing today's assignment
-<img src="https://media.geeksforgeeks.org/wp-content/uploads/finallpandas.png" width=50% height=50%> \
+<div align=center><img src="https://media.geeksforgeeks.org/wp-content/uploads/finallpandas.png" width=50% height=50%></div>
 &minus; Initialize a Dataframe using `pd.DataFrame(data, columns)`
 - data: list of series of data of any type
-- columns: list of string labels for columns
+- columns: list of string labels for columns 
+<br></br>
 
 &minus; Useful analysis and manipulation tools: 
 - Basic statistics (mean, std, quartiles, etc): `describe()`
