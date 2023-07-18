@@ -30,7 +30,7 @@
 - &bull; <ins>Input, Output, and Hidden Layers:</ins> with initial parameters
 - &bull; <ins>Activation Function:</ins> to introduce non-linearity
 - &bull; <ins>Forward Pass:</ins> to calculate output from inputs
-- &bull; <ins>Backward Pass:</ins> to improve accuracy
+- &bull; <ins>Backward Pass:</ins> to improve output accuracy
 - &bull; <ins>Stochastic Gradient Descent (SGD):</ins> to update parameters
 - &bull; <ins>Accuracy Function:</ins> to determine success of training
 - &bull; <ins>Training Loop:</ins> to iteratively run training data
