@@ -11,6 +11,7 @@
 &bull; All values will be wieghed equally (ex: splitting image into pixels with highly varying values)
 &bull; Different units of measurements will be accounted for
 &bull; Output values will be easier to pass to the activation function
+<br></br>
 
 &minus; Adding more layers = account for more relationships between features \
 &minus; Adding more nodes = more precise feature detection, fewer generalizations
@@ -20,12 +21,13 @@
 <div align=center><img src="https://miro.medium.com/v2/resize:fit:1400/1*WfERQXN_BtLi1eAh36_mvw.png" width=40% height=40%></div> 
 
 &minus; Sigmoid Activation Function:
-&bull; Better for binary classification problems, where there are only two classes
-&bull; Ex: Cat vs. Dog Classifier
+- &bull; Better for binary classification problems, where there are only two classes
+- &bull; Ex: Cat vs. Dog Classifier
+<br></br>
 
 &minus; Softmax Activation Function: 
-&bull; Better for multiclass classification problems, where there are many classes
-&bull; Ex: Dog Breed Classifier
+- &bull; Better for multiclass classification problems, where there are many classes
+- &bull; Ex: Dog Breed Classifier
 
 
 ## Additional resources used 
