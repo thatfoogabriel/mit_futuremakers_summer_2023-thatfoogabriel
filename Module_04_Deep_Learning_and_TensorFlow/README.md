@@ -12,9 +12,9 @@
 - Different units of measurements will be accounted for
 - Output values will be easier to pass to the activation function
 
-&minus; Adding more layers = account for more relationships between features
+&minus; Adding more layers = account for more relationships between features \
 &minus; Adding more nodes = more precise feature detection, fewer generalizations
-The more layers and nodes, the lower the loss and the higher the accuracy per epoch
+- ***The more layers and nodes, the lower the loss and the higher the accuracy per epoch***
 
 ## Challenging, interesting, or exciting aspects of today's assignment
 <div align=center><img src="https://miro.medium.com/v2/resize:fit:1400/1*WfERQXN_BtLi1eAh36_mvw.png" width=40% height=40%></div> 
