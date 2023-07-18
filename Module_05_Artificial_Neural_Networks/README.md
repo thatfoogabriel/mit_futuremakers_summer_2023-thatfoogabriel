@@ -12,7 +12,7 @@
 
 &minus; Forward Pass:
 - &bull; Input data passed through each layer, being modified by parameters (weights and biases)
-- &bull; Layer outputs serve as next layer's inputs
+- &bull; Each layer's outputs serve as next layer's inputs
 - &bull; Used to make predictions at the output layer
 <br></br>
 
