@@ -12,11 +12,21 @@
 - Different units of measurements will be accounted for
 - Output values will be easier to pass to the activation function
 
-&minus; 
+&minus; Adding more layers = account for more relationships between features
+&minus; Adding more nodes = more precise feature detection, fewer generalizations
+The more layers and nodes, the lower the loss and the higher the accuracy per epoch
 
 ## Challenging, interesting, or exciting aspects of today's assignment
-&minus; Sigmoid vs. Softmax Activation Functions: 
-<div align=center><img src="https://miro.medium.com/v2/resize:fit:1400/1*WfERQXN_BtLi1eAh36_mvw.png" width=50% height=50%></div> \
+<div align=center><img src="https://miro.medium.com/v2/resize:fit:1400/1*WfERQXN_BtLi1eAh36_mvw.png" width=40% height=40%></div> 
+
+&minus; Sigmoid Activation Function: 
+- Better for binary classification problems, where there are only two classes
+- Ex: Cat vs. Dog Classifier
+
+&minus; Softmax Activation Function: 
+- Better for multiclass classification problems, where there are many classes
+- Ex: Dog Breed Classifier
+
 
 ## Additional resources used 
 [Scikit Learn Linear Regression Model](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html) \
