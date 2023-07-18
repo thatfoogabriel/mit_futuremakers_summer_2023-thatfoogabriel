@@ -8,18 +8,19 @@
 
 ## Main takeaways from doing today's assignment
 <div align=center><img src="https://media.geeksforgeeks.org/wp-content/uploads/finallpandas.png" width=50% height=50%></div>
+
 &minus; Initialize a Dataframe using `pd.DataFrame(data, columns)`
-- data: list of series of data of any type
-- columns: list of string labels for columns 
+- &bull; data: list of series of data of any type
+- &bull; columns: list of string labels for columns
 <br></br>
 
 &minus; Useful analysis and manipulation tools: 
-- Basic statistics (mean, std, quartiles, etc): `describe()`
-- Memory Monitoring: `memory_usage(deep=True)`
-- Casting: `frame.column_name.astype("target_column")`
-- Delete Duplicates: `drop_duplicates(inplace=True)`
-- Merge: `merge(frame, on="name", how="left")`
-- Sort: `sorted_values(by="name", inplace=True)`
+- &bull; Basic statistics (mean, std, quartiles, etc): `describe()`
+- &bull; Memory Monitoring: `memory_usage(deep=True)`
+- &bull; Casting: `frame.column_name.astype("target_column")`
+- &bull; Delete Duplicates: `drop_duplicates(inplace=True)`
+- &bull; Merge: `merge(frame, on="name", how="left")`
+- &bull; Sort: `sorted_values(by="name", inplace=True)`
 
 ## Challenging, interesting, or exciting aspects of today's assignment
 &minus; Dataframes are easier to create and manipulate than SQL tables \
