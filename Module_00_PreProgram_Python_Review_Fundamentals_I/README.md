@@ -10,14 +10,16 @@
 
 ## Main takeaways from doing today's assignment
 &minus; Loops headers are much faster to write than java/c++
-- Iterate for a range: `for i in range(5):`, `for i in range(1, len(list)):`, at an interval: `for i in range(1, 10, 2):`
-- Iterate over list items: `for items in list:`
-- Iterate over multiple variables: `for foo, bar in list.items():`
+- &bull; Iterate for a range: `for i in range(5):`, `for i in range(1, len(list)):`, at an interval: `for i in range(1, 10, 2):`
+- &bull; Iterate over list items: `for items in list:`
+- &bull; Iterate over multiple variables: `for foo, bar in list.items():`
+<br></br>
 
 &minus; Sets, tuples, and dictionaries can be used instead of arrays to make searching for elements easier and keep elements paired together
-- Sets: Unordered list, capable of set operations (Union, Difference, Intersection, etc)
-- Tuples: List of elements with multiple values, keeps connected values together better than lists
-- Dictionaries: List of key-value pairs, usually referenced by key string, keeps track of starting index or single connected value
+- &bull; Sets: Unordered list, capable of set operations (Union, Difference, Intersection, etc)
+- &bull; Tuples: List of elements with multiple values, keeps connected values together better than lists
+- &bull; Dictionaries: List of key-value pairs, usually referenced by key string, keeps track of starting index or single connected value
+<br></br>
 
 &minus; Use `split()` to create list of strings: `['1', '2', '3', '4', '5']`
 
