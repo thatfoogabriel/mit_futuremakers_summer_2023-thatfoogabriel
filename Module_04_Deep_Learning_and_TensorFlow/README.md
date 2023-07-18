@@ -16,7 +16,7 @@
 
 ## Challenging, interesting, or exciting aspects of today's assignment
 &minus; Sigmoid vs. Softmax Activation Functions: 
-
+<div align=center><img src="https://miro.medium.com/v2/resize:fit:1400/1*WfERQXN_BtLi1eAh36_mvw.png" width=50% height=50%></div> \
 
 ## Additional resources used 
 [Scikit Learn Linear Regression Model](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html) \
