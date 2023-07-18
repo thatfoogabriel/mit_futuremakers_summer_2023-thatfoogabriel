@@ -8,24 +8,27 @@
 
 ## Main takeaways from doing today's assignment
 &minus; You can use conditions and try/excepts for input validation and error handling
-- Use `raise` to throw an error with custom message: `raise ZeroDivisionError("Cannot divide by zero!")`
-- Use try-except block for custom behavior without messy error output: `except ZeroDivisionError: print("Cannot divide by zero!")`
+- &bull; Use `raise` to throw an error with custom message: `raise ZeroDivisionError("Cannot divide by zero!")`
+- &bull; Use try-except block for custom behavior without messy error output: `except ZeroDivisionError: print("Cannot divide by zero!")`
+<br></br>
 
 &minus; Packages and their methods can be renamed for your own readability purposes
-- Format: `from "library_name" import "function_name" as "custom_name"`
-- Example: `from random import randint as random_integer`
+- &bull; Format: `from "library_name" import "function_name" as "custom_name"`
+- &bull; Example: `from random import randint as random_integer`
+<br></br>
+
+&minus; Python has its own debugger, so no need for IDE with a debugger!
+- &bull; `breakpoint()` adds stopping point
+- &bull; `continue` excecutes until next breakpoint
+- &bull; `next` skips to next line in current function, runs any called functions
+- &bull; `step` skips to next line, used to peek inside called functions
 
 ## Challenging, interesting, or exciting aspects of today's assignment
-&minus; Python has its own debugger, so no need for IDE with a debugger!
-- `breakpoint()` adds stopping point
-- `continue` excecutes until next breakpoint
-- `next` skips to next line in current function, runs any called functions
-- `step` skips to next line, used to peek inside called functions
-
 &minus; It took a while to understand the `self` keyword in classes and how class methods work in general in python
 - ***`self` works like `this` in Java, where the object refers to itself***
 
 &minus; Pass `self` as a function argument to modify varibles or list values (No need for public variables like Java)
+<br></br>
 
 &minus; When are assertions more useful than using prints or the debugger?
 - ***Assertions can tell you why error occurs better than cryptic exception messages. They also help others see what your code assumes or relies on. Doubles as a form of documentation***
