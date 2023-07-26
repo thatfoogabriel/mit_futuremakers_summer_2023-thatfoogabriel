@@ -13,7 +13,7 @@
 - &bull; Node outputs are randomly ignored
 - &bull; Forces model to look for different feature hints
 - &bull; Useful when model becomes too reliant on one or more features to make predictions
-<br></br>
+- <div align=center><img src="https://miro.medium.com/v2/resize:fit:1044/1*iWQzxhVlvadk6VAJjsgXgg.png" width=45% height=45%></div> 
 
 &minus; Batch Layers:
 - &bull; Regularization of input weights to a smaller range of values
