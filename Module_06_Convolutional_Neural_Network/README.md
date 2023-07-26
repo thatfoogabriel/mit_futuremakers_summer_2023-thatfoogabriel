@@ -9,16 +9,17 @@
 * Batch norm
 
 ## Main takeaways from doing today's assignment
-&minus; Dropout Layers
+&minus; Dropout Layers:
 - &bull; Node outputs are randomly ignored
 - &bull; Forces model to look for different feature hints
 - &bull; Useful when model becomes too reliant on one or more features to make predictions
 <br></br>
 
-&minus; Batch Layers
+&minus; Batch Layers:
 - &bull; Regularization of input weights to a smaller range of values
 - &bull; Done by subtracting the mean and dividing by the standard deviation of the mini-batch values
-https://miro.medium.com/v2/resize:fit:1160/1*WHO0ASlCE8grh3f_c6hFOA.png
+<div align=center><img src="https://miro.medium.com/v2/resize:fit:1160/1*WHO0ASlCE8grh3f_c6hFOA.png" width=40% height=40%></div> 
+
 - &bull; Useful when model varies too much based on initial parameter values
 - &bull; Also useful with varied data sets since it reduces sensitivity to input distributions
 <br></br>
@@ -29,7 +30,7 @@ https://miro.medium.com/v2/resize:fit:1160/1*WHO0ASlCE8grh3f_c6hFOA.png
 - **How do we train a model when there is little useful data?**
 - - &bull; Dropout Layers introduce a form of noise by removing random node outputs
 <br></br>
-- ***Introducing randomness is one way to circumvent small datasets. Randomly modifying weight values or adding dropout layers could help imitate data inputs that could exist, but aren't present in the training data set.***
+- ***Introducing randomness is one way to circumvent small datasets. Introducing noise by randomly modifying weight values or adding dropout layers could help imitate data inputs that could exist, but aren't present in the training data set.***
 
 ## Additional resources used 
 [Convolutional Neural Networks](https://towardsdatascience.com/convolutional-neural-networks-explained-9cc5188c4939) \
